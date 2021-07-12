@@ -1,0 +1,275 @@
+ /* .App {
+     text-align: center;
+ } */
+ 
+ nav.navbar.navbar.navbar-expand.navbar-light {
+     margin-left: 500;
+ }
+ 
+ .bgg {
+     height: 50px;
+     margin-top: 25px;
+ }
+ 
+ .rech {
+     display: flex;
+     margin-left: 140px;
+     margin-top: 35px
+ }
+ 
+ .App-logo {
+     height: 40vmin;
+     pointer-events: none;
+ }
+ 
+ @media (prefers-reduced-motion: no-preference) {
+     .App-logo {
+         animation: App-logo-spin infinite 20s linear;
+     }
+ }
+ 
+ .App-header {
+     background-color: #282c34;
+     min-height: 100vh;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     font-size: calc(10px + 2vmin);
+     color: white;
+ }
+ 
+ .App-link {
+     color: #61dafb;
+ }
+ 
+ @keyframes App-logo-spin {
+     from {
+         transform: rotate(0deg);
+     }
+     to {
+         transform: rotate(360deg);
+     }
+ }
+ 
+ .nav-bar {
+     background-color: #3f60bb;
+     height: 65px;
+ }
+ 
+ .img {
+     width: 80%;
+     height: 67PX;
+     margin-left: 60px
+ }
+ 
+ .main-footer {
+     color: white;
+     background-color: #767a7c;
+     padding-top: 3em;
+     position: relative;
+     bottom: 0;
+     width: 100%;
+     margin-top: 1px;
+ }
+ 
+ .tel {
+     width: 20;
+     height: auto;
+ }
+ 
+ .lis {
+     font-size: 15px;
+     font-weight: bold;
+ }
+ 
+ .ac {
+     margin-right: 32px;
+ }
+ 
+ .hi {
+     margin-left: 1px;
+     margin-right: 1px;
+ }
+ 
+ .bl {
+     margin-right: 35px;
+ }
+ 
+ .l {
+     margin-left: 20px;
+ }
+ 
+ .bt {
+     margin-left: 410px;
+     padding-top: .2rem;
+     padding-bottom: .3rem;
+ }
+ 
+ .bgr {
+     background-image: url("C:\Users\MM\OneDrive\Desktop\reactproject-main\reactproject-main\src\amaal.jpg");
+     height: 100vh;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ 
+ .block-example {
+     width: 6rem;
+     height: 6rem;
+     margin: 0.5rem;
+     background-color: rgb(131, 126, 126);
+     display: inline-block;
+ }
+ 
+ .ok {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 500;
+     margin-top: 2px;
+ }
+ 
+ .ko {
+     font-size: 23px;
+     font-weight: bold;
+ }
+ 
+ .cc {
+     background-color: #f1c638;
+ }
+ 
+ .imgg {
+     width: 30cm;
+     height: 10.9cm;
+ }
+ 
+ .add {
+     margin-left: 1100px;
+ }
+ 
+ .bb {
+     margin-top: 4px;
+ }
+ 
+ .lh {
+     height: 100vh;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ 
+ .li {
+     color: white;
+ }
+ 
+ .create {
+     margin-left: 1150px;
+ }
+ 
+ #too {
+     margin-left: -20;
+ }
+ 
+ #dcr {
+     text-align: center;
+ }
+ 
+ #su {
+     margin-right: 10px;
+ }
+ 
+ #navac {
+     font-size: 1rem;
+ }
+ 
+ .row.align-items-center {
+     --bs-gutter-x: none;
+ }
+ 
+ a.carousel-control-prev {
+     visibility: hidden;
+ }
+ 
+ a.carousel-control-next {
+     visibility: hidden;
+ }
+ 
+ .carousel.slide {
+     border: 1px solid;
+ }
+ 
+ #btsu {
+     margin-bottom: 10px;
+ }
+ 
+ .cc {
+     border-radius: 10px;
+     color: white;
+ }
+ 
+ .voidG {
+     height: 250px;
+ }
+ 
+ .gbg {
+     background-image: url("C:\Users\MM\OneDrive\Desktop\reactproject-main\reactproject-main\src\bg_transtu.jpg");
+     background-position: center;
+     background-repeat: repeat;
+     background-size: cover;
+ }
+ 
+ .row.align-items-center {
+     background-color: rgb(0 0 0 / 5%);
+     box-shadow: 0 4px 4px 0 #9e9e9e;
+ }
+ 
+ #trech {
+     margin-left: auto;
+     margin-right: 350px;
+ }
+ 
+ #trbg {
+     background-color: #198754;
+     color: white;
+ }
+ /* .mg {
+     margin-top: 50px;
+ } */
+ 
+ button.bgg.btn.btn-success {
+     margin-left: 250;
+     margin-bottom: 10px;
+ }
+ 
+ table {
+     margin-left: 250px;
+ }
+ 
+ .voidGG {
+     margin-left: 112px;
+     margin-right: 111px;
+     margin-top: 10px;
+     display: flex;
+     justify-content: space-evenly;
+     background-image: url("C:\Users\MM\OneDrive\Desktop\reactproject-main\reactproject-main\src\bg_transtu.jpg");
+     background-position: center;
+     background-repeat: repeat;
+     background-size: cover;
+ }
+ 
+ .card {
+     box-shadow: -2px 8px 32px 14px rgb(0 0 0 / 23%);
+     -webkit-box-shadow: -2px 8px 32px 14px rgb(0 0 0 / 23%);
+     -moz-box-shadow: -2px 8px 32px 14px rgba(0, 0, 0, 0.23);
+ }
+ 
+ .imgmain {
+     margin-left: -4;
+     margin-bottom: 5px;
+ }
+ 
+ .card-title.h5 {
+     color: #00904A;
+     text-align: center;
+ }
